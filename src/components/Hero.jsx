@@ -19,7 +19,7 @@ export default function Hero() {
       </div>
       <div className="md:w-1/3 flex justify-center mt-8 md:mt-0">
         <img
-          src="/public/images/Oladele.jpg"
+          src="/public/images/oladele.jpg"
           alt="Profile"
           className="rounded-full border-4 border-gray-100 shadow-lg"
         />

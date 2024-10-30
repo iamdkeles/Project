@@ -5,7 +5,7 @@ export default function Featuredworks() {
       <div className="grid">
         <div className="justify-between items-center p-6 bg-white shadow">
           <img
-            src="/public/images/Rectangle 30.png"
+            src="/public/images/rectangle 30.png"
             className="float-left me-4"
           ></img>
           <h4 className="font-semibold text-gray-800">Designing Dashboards</h4>
@@ -19,7 +19,7 @@ export default function Featuredworks() {
         </div>
         <div className="p-6 bg-white shadow">
           <img
-            src="/public/images/Rectangle 32.png"
+            src="/public/images/rectangle 33.png"
             className="float-left me-4"
           ></img>
           <h4 className="font-semibold text-gray-800">
@@ -30,7 +30,7 @@ export default function Featuredworks() {
         </div>
         <div className="p-6 bg-white shadow">
           <img
-            src="/public/images/Rectangle 34.png"
+            src="/public/images/rectangle 34.png"
             className="float-left me-4"
           ></img>
           <h4 className="font-semibold text-gray-800">
